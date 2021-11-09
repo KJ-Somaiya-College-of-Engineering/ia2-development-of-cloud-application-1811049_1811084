@@ -30,6 +30,7 @@ T.C.P is a web-based application that aims to bring your team’s work together 
       <ul>
         <li><a href="#technologies">Tech</a></li>
        <li><a href="#cloud-services">Cloud Services</a></li>
+       <li><a href="#features">Features</a></li>
       </ul>
     </li>
     <li><a href="#pages">Pages</a></li>
@@ -53,6 +54,28 @@ T.C.P is a web-based application that aims to bring your team’s work together 
 * AWS(EC2, CodeDeploy, CodePipeline) - Iaas
 * Firebase (Auth, Firestore, Storage) - Paas
 * MongoDB Atlas - DBaas
+
+### Features
+
+#### General
+
+- [x] Authentication
+- [x] Project dashboard view
+
+#### Projects
+
+- [x] Create and fetch team projects and set deadlines for the same
+- [x] Edit team projects
+- [x] Delete team projects (Project owner can delete)
+- [x] Complete shared access to projects (Members can view project details on their project dashboard)
+
+#### Tasks
+
+- [x] Create, set deadlines for and assign tasks for teams
+- [x] Update tasks
+- [x] Complete and delete tasks
+
+
 
 <!-- Pages -->
 
