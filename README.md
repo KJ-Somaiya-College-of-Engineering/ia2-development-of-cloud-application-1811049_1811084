@@ -35,7 +35,9 @@ T.C.P is a web-based application that aims to bring your team’s work together 
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<div align="center">![INTRO](./landingPage.png)</div>
+
+![landing](./landingPage.png)
+
 
 ### Technologies 
 
@@ -54,15 +56,17 @@ T.C.P is a web-based application that aims to bring your team’s work together 
 
 1. Profile Page:
 
-<div align="center">![INTRO](./profile.png)</div>
+
+![INTRO](./profile.png)
+
 
 2. Projects:
 
-<div align="center">![INTRO](./projects.png)</div>
+![INTRO](./projects.png)
 
 3. Project Detail:
 
-<div align="center">![INTRO](./projectDetails.png)</div>
+![INTRO](./projectDetails.png)
 
 <!-- CONTACT -->
 ## Contact
